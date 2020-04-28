@@ -1,0 +1,14 @@
+ONLINE CAR RENTAL MANAGEMENY SYSTEM
+
+DEVELOPED BY : SUHAILSHAJI
+   EMAILID            : suhailshaji@gmail.com
+
+
+ADMIN LOGIN- l
+localhost/carrental/admin/admin.php
+username - admin
+password - admin
+
+INDEX PAGE -
+localhost/carrental
+

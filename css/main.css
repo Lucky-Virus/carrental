@@ -1,0 +1,232 @@
+
+p   { 
+     font-family: "lato-regular", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    letter-spacing: 1px; 
+	 color:#676767;
+	 }
+
+
+.listing{
+    padding: 100px 0;
+	position: center;
+}
+
+
+.listing ul.properties_list{
+    list-style: none;
+    overflow: hidden;
+}
+
+.listing ul.properties_list li{
+    display: block;
+	
+    width: 30.90909090909091%;
+    height: auto;
+    position: relative;
+    float: left;
+    margin: 0 3.636363636363636% 3.636363636363636% 0;
+
+}
+
+
+
+.listing ul.properties_list li img.property_img{
+    width: 100%;
+    height: auto!important;
+    vertical-align: top;
+}
+
+
+.listing ul.properties_list li .price{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding: 15px 20px;
+    background: #ffffff;
+    color: #514d4d;
+    font-family: "lato-bold", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1px;
+
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+
+
+.listing ul.properties_list li:nth-child(3n+0){
+    margin-right: 0;
+}
+
+.listing ul li .property_details{
+    width: 87.64705882352941%;
+    padding: 2.941176470588235% 5.882352941176471% 4.117647058823529% 5.882352941176471%;
+ 
+
+    transition: all .2s linear;
+    -webkit-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -o-transition: all .2s linear;
+
+}
+
+
+
+.listing ul li .property_details h1{
+    color: red;
+    font-family: "lato-bold", Helvetica, Arial, sans-serif;
+    font-size: 16px!important;
+    font-weight: bold;
+    margin-bottom: 5px;
+    line-height: 28px;
+	
+    text-transform: uppercase;
+}
+
+.listing ul li .property_details h1 a{
+    text-decoration: none;
+    color: #666464;
+	
+	
+    font-family: "lato-bold", Helvetica, Arial, sans-serif;
+}
+
+.listing ul li .property_details h2{
+    color: #9d9d9d;
+    font-family: "lato-regular", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    line-height: 26px;
+    font-weight: normal;
+}
+
+.listing ul li .property_details .property_size{
+    color: blue;
+	 font-family: "lato-regular", Helvetica, Arial, sans-serif;
+
+	   font-size: 15px;
+	  line-height: 26px;
+	left: 1px;
+}
+.listing ul li .property_details .property_size_a{
+	font-size: 25px;
+	  color: #676767;
+	  line-height: 26px;
+	   font-family: "lato-regular", Helvetica, Arial, sans-serif;
+       margin-left: 15px;
+	   margin-bottom: 15px;
+	     margin: 30px 
+}
+.listing ul li .property_details .property_size_b{
+
+	font-size: 25px;
+	  color: red;
+	
+	
+}
+.listing ul li .property_details .term
+{
+	font-size: 15px;
+	 color:#e86f13;
+	 margin-top: 12px;
+}
+.listing ul li .property_details .term_a
+{
+	font-size: 20px;
+	 color:#e86f13;
+	 margin-top: 12px;
+	
+}
+.listing .more_listing{
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 84px 0 22px 0;
+}
+
+.listing .more_listing_btn{
+    text-decoration: none;
+    padding: 20px 40px;
+    border: 2px solid #bfd9f1;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -o-border-radius: 30px;
+    color: #afcbe6;
+    font-family: "lato-regular", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+
+    transition: all .2s linear;
+    -webkit-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -o-transition: all .2s linear;
+}
+
+.listing .more_listing_btn:hover{
+    color: #a0c3e5;
+    border: 2px solid #a0c3e5;    
+}
+
+
+ .caption h3{
+    color: ;
+    font-family: "lato-regular", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    margin: -15px 0 0 25px;
+    left: 1px;
+}
+.condition h1 {
+	font-family: "lato-regular", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+.condition p }
+font-family: "lato-regular", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+	}
+	
+	.listing_1
+	{
+		
+    padding: 100px 0;
+}
+
+	.booking h1
+{
+	color :red;
+	   font-size: 20px;
+}
+
+
+
+.booking_form h1
+{
+	font-size:18px;
+}
+
+
+
+
+
+.form { padding:15px 10px 5px 10px; }
+
+.form label{ display:block; font-weight: bold; font-size:13px; padding-bottom:4px; }
+
+.form .field { display:block; }
+.form .inline-field .field { display:inline;}
+
+.form p{ padding-bottom:15px; }
+
+
+.conditions p {
+	
+	    font-size: 8pt;
+    clear:both;
+    margin: 0;
+    color:gray;
+    padding:4px;
+}

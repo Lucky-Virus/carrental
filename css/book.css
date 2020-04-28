@@ -1,0 +1,66 @@
+.listing{
+    padding: 100px 0;
+}
+.listing ul.properties_list{
+    list-style: none;
+    overflow: hidden;
+}
+.listing ul.properties_list li{
+    display: block;
+	height: auto;
+    position: relative;
+
+
+  
+
+}
+.listing ul.properties_list li img.property_img{
+    width: 100%;
+    height: auto!important;
+    vertical-align: top;
+
+	
+}
+.listing ul.properties_list li:nth-child(3n+0){
+	
+}
+
+.listing ul li .property_details h1{
+    color: red;
+	
+    font-family: "lato-bold", Helvetica, Arial, sans-serif;
+    font-size: 25px!important;
+    font-weight: bold;
+    margin-bottom: 5px;
+    line-height: 28px;
+	margin-left:100px;
+    text-transform: uppercase;
+}
+
+.listing ul li .property_details h1 a{
+    text-decoration: none;
+    color: #666464;
+	font-family: "lato-bold", Helvetica, Arial, sans-serif;
+}
+.listing ul li .property_details p{
+    color: #666464;
+    font-family: "lato-regular", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 26px;
+    font-weight: normal;
+
+}
+.listing ul li .property_details .property_size{
+	font-size: 20px;
+	  color: Green;
+	  line-height: 26px;
+	   font-family: "lato-regular", Helvetica, Arial, sans-serif;
+      
+}
+.listing ul li .property_details .term_a {
+	font-size: 25px;
+	  color: red;
+	  line-height: 26px;
+	   font-family: "lato-regular", Helvetica, Arial, sans-serif;
+      
+}
